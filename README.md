@@ -33,7 +33,18 @@ I'm an aspiring Data Science student building my skills in programming, data ana
 
 ## 🚀 Projects
 
-Projects will be added here as I build my portfolio.
+### 💼 Shift & Earnings Tracker
+
+A Python command-line application for recording work shifts, calculating paid hours, and estimating monthly earnings.
+
+- Built with **Python**
+- Stores data using **CSV**
+- Includes automated tests with **pytest**
+- Handles overnight shifts, unpaid breaks, and monthly summaries
+
+🔗 [View Project on GitHub](https://github.com/aaayushyadav2807-commits/Shift-Earnings-Tracker-project)
+
+🎥 [Watch Demo](https://youtu.be/VJraRaSAPKU)
 
 ## 📈 Current Focus
 

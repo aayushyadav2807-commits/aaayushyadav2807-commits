@@ -11,6 +11,10 @@ I'm an aspiring Data Science student building my skills in programming, data ana
 - 📊 After that: **Pandas, NumPy, and Data Analysis**
 - 🎯 Goal: build a strong Data Science portfolio with real-world projects
 
+## 🎓 Certifications
+
+- [CS50's Introduction to Programming with Python — Harvard University](https://cs50.harvard.edu/certificates/3e8e26b7-a38d-46f5-9a5f-52a8f69747c2)
+
 ## 🛠️ Skills
 
 **Currently comfortable with:**

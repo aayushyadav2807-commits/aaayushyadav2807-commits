@@ -1,4 +1,3 @@
-# aaayushyadav2807-commits
 # Hi, I'm Aayush 👋
 
 I'm an aspiring Data Science student building my skills in programming, data analysis, and software development.
